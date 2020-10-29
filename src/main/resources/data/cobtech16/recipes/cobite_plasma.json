@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "cobtech16:cobite_ingot"
+  },
+  "result": "cobtech16:cobite_plasma",
+  "experience": 0.30,
+  "cookingtime": 350
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/outer_stairs",
+    "textures": {
+        "bottom": "cobtech16:blocks/testing_block",
+        "top": "cobtech16:blocks/testing_block",
+        "side": "cobtech16:blocks/testing_block"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "cobtech16:block/chair", "y": 270},
+        "facing=south": { "model": "cobtech16:block/chair", "y": 90 },
+        "facing=west":  { "model": "cobtech16:block/chair", "y": 180},
+        "facing=east":  { "model": "cobtech16:block/chair" }
+    }
+}

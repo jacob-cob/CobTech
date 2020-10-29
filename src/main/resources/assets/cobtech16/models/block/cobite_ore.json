@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "cobtech16:blocks/cobite_ore"
+    }
+}

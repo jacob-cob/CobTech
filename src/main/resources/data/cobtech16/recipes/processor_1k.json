@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IGI",
+    "RCR",
+    "IGI"
+  ],
+  "key": {
+    "C": {
+      "item": "cobtech16:cyber_tech"
+    },
+    "G": {
+      "item": "cobtech16:plastic"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "cobtech16:processor_1k"
+  }
+}

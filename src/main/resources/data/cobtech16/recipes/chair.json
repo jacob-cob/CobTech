@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  P",
+    "PPP",
+    "I I"
+  ],
+  "key": {
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cobtech16:chair",
+    "count": 3
+  }
+}

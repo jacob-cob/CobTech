@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "blue_dye",
+  "ingredients": [
+    {
+      "item": "minecraft:apple"
+    },
+    {
+      "tag": "minecraft:leaves"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "cobtech16:organic_matter"
+  }
+}

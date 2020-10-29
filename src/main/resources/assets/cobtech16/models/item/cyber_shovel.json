@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "cobtech16:items/cyber_shovel"
+	}
+}

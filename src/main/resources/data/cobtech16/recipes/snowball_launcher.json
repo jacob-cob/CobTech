@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DSC",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "cobtech16:cobite_ingot"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    },
+    "S": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "cobtech16:snowball_launcher"
+  }
+}

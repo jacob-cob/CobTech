@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "powered=false": { "model": "cobtech16:block/testing_pressure_plate" },
+        "powered=true": { "model": "cobtech16:block/testing_pressure_plate_down" }
+    }
+}

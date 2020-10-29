@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " PP",
+    " CP",
+    " T "
+  ],
+  "key": {
+    "P": {
+      "item": "cobtech16:cobite_plasma"
+    },
+    "T": {
+      "item": "cobtech16:cobite_stick"
+    },
+    "C": {
+      "item": "cobtech16:cyber_tech"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cyber_axe"
+  }
+}

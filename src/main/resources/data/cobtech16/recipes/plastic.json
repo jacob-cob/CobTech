@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "cobtech16:organic_matter"
+  },
+  "result": "cobtech16:plastic",
+  "experience": 0.15,
+  "cookingtime": 100
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CIC",
+    "ITI",
+    "CIC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:gray_concrete"
+    },
+    "I": {
+      "item": "cobtech16:cobite_ingot"
+    },
+    "T": {
+      "item": "cobtech16:cyber_tech"
+    }
+  },
+  "result": {
+    "item": "cobtech16:speed_road",
+    "count": 4
+  }
+}

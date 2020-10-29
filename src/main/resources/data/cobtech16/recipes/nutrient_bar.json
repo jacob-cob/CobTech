@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    "PRP",
+    "PCP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "W": {
+      "item": "minecraft:wheat_seeds"
+    },
+    "C": {
+      "item": "minecraft:cocoa_beans"
+    }
+  },
+  "result": {
+    "item": "cobtech16:nutrient_bar"
+  }
+}

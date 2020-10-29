@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "RPR",
+    "III"
+  ],
+  "key": {
+    "P": {
+      "item": "cobtech16:processor_1k"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cobtech16:hologram_projector"
+  }
+}

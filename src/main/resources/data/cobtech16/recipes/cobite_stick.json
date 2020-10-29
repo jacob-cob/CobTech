@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C",
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item": "cobtech16:cobite_ingot"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cobite_stick",
+    "count": 4
+  }
+}

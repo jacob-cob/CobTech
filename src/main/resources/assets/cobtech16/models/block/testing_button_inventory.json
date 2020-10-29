@@ -1,0 +1,6 @@
+{
+    "parent": "block/button_inventory",
+    "textures": {
+        "texture": "cobtech16:blocks/testing_block"
+    }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NCN",
+    "RQR",
+    "NCN"
+  ],
+  "key": {
+    "Q": {
+      "item": "minecraft:diamond"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "N": {
+      "item": "cobtech16:cobite_ingot"
+    },
+    "C": {
+      "item": "cobtech16:cyber_scrap"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cyber_tech"
+  }
+}

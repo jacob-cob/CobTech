@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " T ",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "cobtech16:cobite_ingot"
+    },
+    "T": {
+      "item": "cobtech16:cyber_tech"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cyber_boots"
+  }
+}
