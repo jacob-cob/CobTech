@@ -35,7 +35,7 @@ public class CardboardBoxScreen extends ContainerScreen<CardboardBoxContainer> {
 	protected void drawGuiContainerForegroundLayer(int mouseX, int mouseY) {
 		super.drawGuiContainerForegroundLayer(mouseX, mouseY);
 		this.font.drawString(this.title.getFormattedText(), 8.0f, 6.0f, 4210752);
-		this.font.drawString(this.playerInventory.getDisplayName().getFormattedText(), 8.0f, 65.0f, 4210752);
+		this.font.drawString(this.playerInventory.getDisplayName().getFormattedText(), 8.0f, 70.0f, 4210752);
 	}
 	
 	@Override

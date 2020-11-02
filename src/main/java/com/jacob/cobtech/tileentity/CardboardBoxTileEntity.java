@@ -21,6 +21,7 @@ import net.minecraft.util.Direction;
 import net.minecraft.util.NonNullList;
 import net.minecraft.util.SoundCategory;
 import net.minecraft.util.SoundEvent;
+import net.minecraft.util.SoundEvents;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
@@ -115,6 +116,7 @@ public class CardboardBoxTileEntity extends LockableLootTileEntity
 			}
 			
 			++ this.numPlayersUsing;
+			this.playSound(SoundEvents.BLOCK_WOOL_PLACE);
 			this.onOpenOrClose();
 		}
 	}
@@ -123,6 +125,7 @@ public class CardboardBoxTileEntity extends LockableLootTileEntity
 	public void closeInventory(PlayerEntity player) {
 		if(!player.isSpectator()) {
 			-- this.numPlayersUsing;
+			this.playSound(SoundEvents.BLOCK_WOOL_BREAK);
 			this.onOpenOrClose();
 		}
 	}

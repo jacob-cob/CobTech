@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "RNR",
+    "ICI"
+  ],
+  "key": {
+    "I": {
+      "item": "cobtech16:iron_plate"
+    },
+    "R": {
+      "item": "cobtech16:reactor_rod"
+    },
+    "C": {
+      "item": "cobtech16:cyber_pickaxe"
+    },
+    "N": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "cobtech16:quarry"
+  }
+}

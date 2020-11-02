@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "GPG",
+    "RRR"
+  ],
+  "key": {
+    "P": {
+      "item": "cobtech16:processor_1k"
+    },
+    "G": {
+      "item": "cobtech16:plastic"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "cobtech16:processor_2k"
+  }
+}

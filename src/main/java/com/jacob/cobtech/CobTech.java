@@ -9,8 +9,12 @@ import com.jacob.cobtech.init.ItemInitNew;
 import com.jacob.cobtech.init.ModContainerTypes;
 import com.jacob.cobtech.init.ModEntityTypes;
 import com.jacob.cobtech.init.ModTileEntityTypes;
+import com.jacob.cobtech.init.RecipeSerializerInit;
+import com.jacob.cobtech.init.SoundInit;
+import com.jacob.cobtech.objects.items.ModSpawnEggItem;
 import com.jacob.cobtech.world.gen.CobOreGen;
 
+import net.minecraft.entity.EntityType;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -44,7 +48,9 @@ public class CobTech
 		modEventBus.addListener(this::setup);
 		modEventBus.addListener(this::doClientStuff);
 		
+		SoundInit.SOUNDS.register(modEventBus);
 		ItemInitNew.ITEMS.register(modEventBus);
+		RecipeSerializerInit.RECIPE_SERIALIZERS.register(modEventBus);
 		BlockInitNew.BLOCKS.register(modEventBus);
 		ModTileEntityTypes.TILE_ENTITY_TYPES.register(modEventBus);
 		ModContainerTypes.CONTAINER_TYPES.register(modEventBus);
@@ -89,6 +95,11 @@ public class CobTech
 	public static void loadCompleteEvent(FMLLoadCompleteEvent event)
 	{
 		CobOreGen.generateOre();
+	}
+	
+	@SubscribeEvent
+	public static void onRegisterEntities(final RegistryEvent.Register<EntityType<?>> event) {
+		ModSpawnEggItem.initSpawnEggs();	
 	}
 	
 	public static class CobTechGroup extends ItemGroup

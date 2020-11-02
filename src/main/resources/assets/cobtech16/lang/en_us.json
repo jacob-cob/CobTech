@@ -3,13 +3,17 @@
 	"item.cobtech16.nutrient_bar": "Nutrient Bar TM",
 	"item.cobtech16.cyber_tech": "Cyber Tech",
 	"item.cobtech16.processor_1k": "1K Processor",
+	"item.cobtech16.processor_2k": "2K Processor",
 	"item.cobtech16.hologram_projector": "Hologram Projector",
 	"item.cobtech16.cobite_ingot": "Cobite Ingot",
 	"item.cobtech16.cobite_stick": "Cobite Stick",
 	"item.cobtech16.cobite_plasma": "Cobite Plasma",
 	"item.cobtech16.plastic": "Plastic",
+	"item.cobtech16.robot_spawn_egg": "Robot",
+	"item.cobtech16.corrupted_robot_spawn_egg": "Corrupted Robot",
 	"item.cobtech16.organic_matter": "Organic Matter",
-	"item.cobtech16.rector_rod": "Reactor Rod",
+	"item.cobtech16.reactor_rod": "Reactor Rod",
+	"item.cobtech16.cardboard": "Cardboard",
 	"item.cobtech16.hardened_cobite_ingot": "Hardened Cobite Ingot",
 	
 	"item.cobtech16.cyber_sword": "Cyber Sword",
@@ -26,6 +30,7 @@
 	
 	"block.cobtech16.holographic_stone": "Stone Hologram",
 	"block.cobtech16.cardboard_box": "Cardboard Box",
+	"block.cobtech16.cobite_crate": "COBite Crate",
 	"block.cobtech16.testing_block": "Testing Block",
 	"block.cobtech16.testing_stairs": "Testing Stairs",
 	"block.cobtech16.testing_pressure_plate": "Testing Pressure Plate",
@@ -39,7 +44,12 @@
 	"block.cobtech16.iron_plate": "Iron Plate",
 	"block.cobtech16.chair": "Chair",
 	
+	"entity.cobtech16.corrupted_robot": "Corrupted Robot",
+	"entity.cobtech16.robot": "Robot",
+	"entity.cobtech16.corrupted_brute": "Corrupted Brute",
+	
 	"container.cardboard_box": "Cardboard Box",
+	"container.cobite_crate": "Cobite Crate",
 	
 	"itemGroup.cobtechtab": "Cob Tech"
 }

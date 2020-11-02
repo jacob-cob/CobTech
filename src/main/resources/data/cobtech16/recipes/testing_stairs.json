@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "cobtech16:testing_block"
+  },
+  "result": "cobtech16:testing_stairs",
+  "count": 1
+}

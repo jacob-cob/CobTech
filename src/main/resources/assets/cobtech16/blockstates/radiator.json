@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "lit=false": { "model": "cobtech16:block/radiator" },
+        "lit=true": { "model": "cobtech16:block/lit_radiator" }
+    }
+}

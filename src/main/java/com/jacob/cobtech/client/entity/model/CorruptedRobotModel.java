@@ -18,8 +18,8 @@ public class CorruptedRobotModel<T extends CorruptedRobot> extends EntityModel<T
 	private final ModelRenderer Controller;
 
 	public CorruptedRobotModel() {
-		textureWidth = 16;
-		textureHeight = 16;
+		textureWidth = 64;
+		textureHeight = 64;
 
 		Body = new ModelRenderer(this);
 		Body.setRotationPoint(0.0F, 24.0F, 0.0F);

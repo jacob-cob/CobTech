@@ -1,0 +1,10 @@
+{
+	"type": "cobtech16:radiating",
+	"output": {
+		"item": "cobtech16:reactor_rod"
+	},
+	
+	"input": {
+		"item": "cobtech16:cobite_stick"
+	}
+}

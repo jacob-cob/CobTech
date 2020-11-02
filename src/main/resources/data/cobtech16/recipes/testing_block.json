@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WCW",
+    "CHC",
+    "WCW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:white_concrete"
+    },
+    "H": {
+      "item": "cobtech16:hardened_cobite_ingot"
+    },
+    "C": {
+      "item": "cobtech16:cobite_stick"
+    }
+  },
+  "result": {
+    "item": "cobtech16:testing_block",
+    "count": 64
+  }
+}

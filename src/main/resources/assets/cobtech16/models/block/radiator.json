@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "cobtech16:blocks/radiator_top",
+        "front": "cobtech16:blocks/radiator_side",
+        "side": "cobtech16:blocks/radiator_side"
+    }
+}

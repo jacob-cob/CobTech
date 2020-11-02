@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CC",
+    "CC"
+  ],
+  "key": {
+    "C": {
+      "item": "cobtech16:cardboard"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cardboard_box"
+  }
+}

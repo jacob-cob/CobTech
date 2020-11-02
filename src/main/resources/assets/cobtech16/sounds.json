@@ -1,0 +1,89 @@
+{
+	"entity.robot.ambient": {
+		"category": "entity",
+		"subtitle": "entity.robot.ambient",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.robot.ambient",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.corrupted_robot.ambient": {
+		"category": "entity",
+		"subtitle": "entity.corrupted_robot.ambient",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.corrupted_robot.ambient",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.corrupted_robot.hurt": {
+		"category": "entity",
+		"subtitle": "entity.corrupted_robot.hurt",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.corrupted_robot.hurt",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.robot.move": {
+		"category": "entity",
+		"subtitle": "entity.robot.move",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.robot.move",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.brute.move": {
+		"category": "entity",
+		"subtitle": "entity.brute.move",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.brute.move",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.corrupted_brute.ambient": {
+		"category": "entity",
+		"subtitle": "entity.corrupted_brute.ambient",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.corrupted_brute.ambient",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.corrupted_brute.hurt": {
+		"category": "entity",
+		"subtitle": "entity.corrupted_brute.hurt",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.corrupted_brute.hurt",
+				"stream": true
+			}
+		]
+	},
+	
+	"entity.corrupted_brute.death": {
+		"category": "entity",
+		"subtitle": "entity.corrupted_brute.death",
+		"sounds": [
+			{
+				"name": "cobtech16:entity/entity.corrupted_brute.death",
+				"stream": true
+			}
+		]
+	}
+}

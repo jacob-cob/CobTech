@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "cobtech16:cobite_ingot"
+    }
+  ],
+  "result": {
+    "item": "cobtech16:hardened_cobite_ingot"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    "HCH",
+    "HHH"
+  ],
+  "key": {
+    "H": {
+      "item": "cobtech16:hardened_cobite_ingot"
+    },
+    "C": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "cobtech16:cobite_crate"
+  }
+}
